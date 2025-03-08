@@ -1,23 +1,6 @@
 # SF-Resolutions
 
-<html lang="en">
-<head>
-    <style>
-        #demoFont {
-          font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-          font-size: 25px;
-          letter-spacing: 2px;
-          word-spacing: 3px;
-          color: #000000;
-          font-weight: 700;
-          text-decoration: overline solid rgb(68, 68, 68);
-          font-style: normal;
-          font-variant: normal;
-          text-transform: capitalize;
-        }
-    </style>
-</head>
-<body>
-    <h1 id="#demoFont">Repository for learning future resolutions.</h1>
-</body>
-</html>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&color=fff&center=true&vCenter=true&lines=F+u+t+u+r+e&nbsp&nbsp&nbsp+R+e+s+o+l+u+t+i+o+n+s+;" alt="Typing SVG" />
+</p>
+
